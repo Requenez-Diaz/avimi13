@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Avimilex</h1>
-<h3 align="center">Soy un frontend Developer apacionado</h3>
+<h3 align="center">Im fronted that like, learning all days</h3>
 
 - 💬 Ask me about **Html, Css, JavaScript y React Native**
 
